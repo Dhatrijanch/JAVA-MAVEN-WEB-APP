@@ -13,9 +13,7 @@
 		<jackson.library>2.7.5</jackson.library>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-	</properties>
-        <properties>
-                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
          </properties>
 	<build>
     	<plugins>
@@ -28,8 +26,6 @@
         	</plugin>
     	 </plugins>
 	  </build>
-
-	
 
 	<dependencies>
 		<dependency>
